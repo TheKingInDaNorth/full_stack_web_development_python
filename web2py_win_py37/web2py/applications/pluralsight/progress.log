@@ -1,1 +1,11 @@
 [2021-04-02 09:35:00] START
+[2021-04-03 12:41:43] CREATE basics.py: 0
+[2021-04-03 12:44:30] EDIT pluralsight/controllers/basics.py: 4
+[2021-04-03 12:45:56] CREATE basics/helloworld.html: 0
+[2021-04-03 12:50:07] EDIT pluralsight/views/basics/helloworld.html: 2
+[2021-04-03 12:50:40] EDIT pluralsight/views/basics/helloworld.html: 3
+[2021-04-03 12:55:49] EDIT pluralsight/controllers/basics.py: 4
+[2021-04-03 12:55:55] EDIT pluralsight/controllers/basics.py: 1
+[2021-04-03 12:56:02] EDIT pluralsight/controllers/basics.py: 0
+[2021-04-03 12:56:05] EDIT pluralsight/controllers/basics.py: 0
+[2021-04-03 12:56:29] CREATE basics/request_args.html: 0
