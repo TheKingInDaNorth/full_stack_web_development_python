@@ -1,5 +1,19 @@
 # -*- coding: utf-8 -*-
 # try something like
+import random
+
+def isPrime(num):
+    counter = 2
+    while counter < num-1:
+        if num%counter == 0:
+            return False
+        counter = counter + 1
+    return True
+
+def random_number():
+    x = random.randint(3,20)
+    result = isPrime(x)
+    return locals()
 
 def request_object():
     app = request.application
@@ -20,6 +34,7 @@ def request_vars():
         num1 = float(request.post_vars.num1)
         num2 = float(request.post_vars.num2)
         total = num1 + num2
+        response.flash = T("The total is " + str(total))
     return locals()
 
 def request_args():
