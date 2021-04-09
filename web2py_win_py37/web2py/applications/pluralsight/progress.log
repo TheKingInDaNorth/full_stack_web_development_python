@@ -38,3 +38,14 @@
 [2021-04-08 09:09:46] EDIT pluralsight/controllers/blog.py: 0
 [2021-04-08 09:11:12] CREATE blog/post.html: 0
 [2021-04-08 09:11:45] EDIT pluralsight/views/blog/post.html: 0
+[2021-04-09 09:30:53] EDIT pluralsight/controllers/blog.py: 10
+[2021-04-09 09:35:42] EDIT pluralsight/controllers/blog.py: 8
+[2021-04-09 09:42:51] EDIT pluralsight/controllers/blog.py: 0
+[2021-04-09 09:43:37] CREATE blog/update.html: 0
+[2021-04-09 09:44:00] EDIT pluralsight/views/blog/update.html: 0
+[2021-04-09 10:06:55] EDIT pluralsight/views/blog/update.html: 0
+[2021-04-09 10:07:22] EDIT pluralsight/views/blog/update.html: 0
+[2021-04-09 10:08:54] CREATE blog/view.html: 0
+[2021-04-09 10:12:23] EDIT pluralsight/views/blog/view.html: 20
+[2021-04-09 10:15:04] EDIT pluralsight/views/blog/view.html: 1
+[2021-04-09 10:19:36] EDIT pluralsight/views/blog/view.html: 1
