@@ -54,3 +54,6 @@
 [2021-04-10 14:10:12] EDIT pluralsight/controllers/appadmin.py: 0
 [2021-04-10 14:10:31] EDIT pluralsight/controllers/appadmin.py: 0
 [2021-04-10 14:11:25] EDIT pluralsight/controllers/appadmin.py: 0
+[2021-04-11 13:38:37] EDIT pluralsight/models/db.py: 0
+[2021-04-11 13:48:15] CREATE contacts.py: 0
+[2021-04-11 13:49:11] EDIT pluralsight/controllers/contacts.py: 3
