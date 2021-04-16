@@ -82,3 +82,19 @@ CREATE TABLE "contacts"(
     "web" CHAR(512)
 );
 success!
+timestamp: 2021-04-16T10:32:15.787858
+CREATE TABLE "products"(
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "product_name" CHAR(512),
+    "current_price" CHAR(512)
+);
+success!
+timestamp: 2021-04-16T10:32:15.835892
+CREATE TABLE "orders"(
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "order_date" DATE,
+    "product_id" INTEGER,
+    "order_price" DOUBLE,
+    "orderer_id" INTEGER
+);
+success!
