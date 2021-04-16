@@ -89,3 +89,9 @@
 [2021-04-13 10:53:18] EDIT pluralsight/views/contacts/update.html: 0
 [2021-04-15 09:34:37] EDIT pluralsight/controllers/blog.py: 2
 [2021-04-15 09:37:48] EDIT pluralsight/controllers/blog.py: 1
+[2021-04-16 10:31:58] EDIT pluralsight/models/db.py: 10
+[2021-04-16 10:36:41] CREATE products.py: 0
+[2021-04-16 10:37:59] EDIT pluralsight/controllers/products.py: 5
+[2021-04-16 10:38:27] EDIT pluralsight/controllers/products.py: 0
+[2021-04-16 10:47:07] CREATE products/admin_view.html: 0
+[2021-04-16 10:49:02] EDIT pluralsight/views/products/admin_view.html: 11

@@ -174,6 +174,6 @@ db.define_table('contacts',
                 Field('zip'),
                 Field('phone1'),
                 Field('phone2'),
-                Field('email'),
+                Field('email', requires=IS_EMAIL()),
                 Field('web')
                 )
