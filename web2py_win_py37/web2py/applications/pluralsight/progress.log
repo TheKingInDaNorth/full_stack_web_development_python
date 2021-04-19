@@ -116,3 +116,11 @@
 [2021-04-18 13:05:28] EDIT pluralsight/models/db.py: 0
 [2021-04-18 13:05:40] EDIT pluralsight/models/db.py: 0
 [2021-04-18 13:07:20] EDIT pluralsight/models/db.py: -1
+[2021-04-19 09:52:36] CREATE session.py: 0
+[2021-04-19 09:53:30] EDIT pluralsight/controllers/session.py: 7
+[2021-04-19 09:54:03] CREATE session/set.html: 0
+[2021-04-19 09:54:17] CREATE session/view.html: 0
+[2021-04-19 09:54:41] EDIT pluralsight/views/session/set.html: -1
+[2021-04-19 10:02:40] EDIT pluralsight/views/session/view.html: 8
+[2021-04-19 10:03:40] EDIT pluralsight/views/session/view.html: 0
+[2021-04-19 10:05:11] EDIT pluralsight/views/session/view.html: 3
