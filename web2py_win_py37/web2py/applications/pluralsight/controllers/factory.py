@@ -20,3 +20,24 @@ def form():
 
 def formaccepted():
     return locals()
+
+def isPrime(num):
+    counter = 2
+    while counter < num-1:
+        if num%counter == 0:
+            return False
+        counter = counter + 1
+    return True
+
+def primeform():
+    answer = False
+    form = SQLFORM.factory(
+        Field('enter_number', requires=IS_INT_IN_RANGE(10,10000))
+        )
+    if form.process().accepted:
+        response.flash = 'form accepted'
+        session.enter_number = form.vars.enter_number
+        answer = isPrime(int(session.enter_number))
+    elif form.errors:
+        response.flash = 'form has errors'
+    return locals()
